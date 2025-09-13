@@ -23,5 +23,13 @@ A web application for job postings where users can browse, search, and apply for
 - Create a simple application used html,css.
 - Quckily Complete the webpage.
 - Download zip file and see it.
+  
+2. Open the project
+
+  - Go to the folder
+
+  - Open Job-board.html in your browser.
+
+  - That’s it 🎉 The Job board page will run instantly.
    
 
