@@ -14,7 +14,8 @@ A web application for job postings where users can browse, search, and apply for
 - Scalable for future features
   
 ## Tech Stack
-- HTML / CSS
+- **HTML5** – Structure of the landing page  
+- **CSS3** – Styling and responsive design 
 
 ## 🚀 Getting Started
 1. Clone the repo:
